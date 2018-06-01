@@ -2,7 +2,7 @@
     "name": "cpies/phpunit-watcher",
     "description": "Automatically rerun PHPUnit tests when source code changes",
     "keywords": [
-        "spatie",
+        "cpies",
         "phpunit-watcher"
     ],
     "homepage": "https://github.com/cpies/phpunit-watcher",
@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\PhpUnitWatcher\\": "src"
+            "Cpies\\PhpUnitWatcher\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\PhpUnitWatcher\\Test\\": "tests"
+            "Cpies\\PhpUnitWatcher\\Test\\": "tests"
         },
         "files": [
             "tests/helpers.php"
