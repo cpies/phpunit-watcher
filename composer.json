@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Cpies\\PhpUnitWatcher\\": "src"
+            "Spatie\\PhpUnitWatcher\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Cpies\\PhpUnitWatcher\\Test\\": "tests"
+            "Spatie\\PhpUnitWatcher\\Test\\": "tests"
         },
         "files": [
             "tests/helpers.php"
