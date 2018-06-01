@@ -1,11 +1,11 @@
 {
-    "name": "spatie/phpunit-watcher",
+    "name": "cpies/phpunit-watcher",
     "description": "Automatically rerun PHPUnit tests when source code changes",
     "keywords": [
         "spatie",
         "phpunit-watcher"
     ],
-    "homepage": "https://github.com/spatie/phpunit-watcher",
+    "homepage": "https://github.com/cpies/phpunit-watcher",
     "license": "MIT",
     "authors": [
         {
